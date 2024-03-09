@@ -1,0 +1,32 @@
+{
+  "name": "codercoderdarkredefined",
+  "publisher": "moondevaa",
+  "displayName": "Coder Coder Dark Redefined",
+  "description": "Coder Coder Dark Redefined (new version ) with new color palette",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AaBbdev29/Redefined-coder"
+  },
+  "icon": "logo.jpg", 
+  "theme": "dark",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Coder Coder Dark Redefined",
+        "uiTheme": "vs-dark",
+        "path": "./themes/coder-coder-dark-redefined-color-theme.json"
+      }
+    ]
+  }
+  ,"scripts": {
+    "deploy": "vsce publish --yarn"
+  }
+}
