@@ -607,14 +607,14 @@
       "name": "Classes",
       "scope": "entity.name.type.namespace",
       "settings": {
-        "foreground": "#e73d64"
+        "foreground": "#d6d6d6"
       }
     },
     {
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#e73d64"
+        "foreground": "#e0e0e0"
       }
     },
     {
@@ -632,7 +632,7 @@
         "variable.other.class.ts"
       ],
       "settings": {
-        "foreground": "#e73d64"
+        "foreground": "#d6d6d6"
       }
     },
     {
