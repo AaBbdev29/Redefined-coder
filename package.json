@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Coder Coder Dark Redefined",
   "description": "Coder Coder Dark Redefined (new version ) with new color palette",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -12,7 +12,10 @@
   ],
    "keywords":["code","vs","dark","purple","hot","pink","magenta","fuchsia","purple","fast","eye","design","modern",
    "new","fresh","good","well","user","class","id","value","material","icon","c","plus","one","file","noctis","sublime",
-"custom","easy"
+"custom","easy","sweet","candy","punch","blush","watermelon","salamon","coral","background","strawberry","wood","taffy",
+"hot","light","orchid","Crimson","ruby","Cherry","top","class","rate","Peach","Crepe","youtube","x","face","book","meta",
+"note","copy","comment","chat","eye","look","great","see","watch","take","deep","Barbie","css","Brilliant","x","lace","your",
+"medium","value","just","hit","define"
    ],
   "repository": {
     "type": "git",
